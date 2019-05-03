@@ -1,0 +1,14 @@
+{
+  "name": "rgb",
+  "version": "1.0.0",
+  "description": "Assignment Embedded System : RGB",
+  "main": "index.js",
+  "scripts": {
+    "test": "start index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
